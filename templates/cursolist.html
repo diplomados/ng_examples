@@ -1,0 +1,36 @@
+
+<div ng-controller="cursoList">
+
+	<div >
+      <div class="container">
+
+	<label>Buscar:</label>
+	<input type="text" ng-model="search">
+	<a href="" ng-click="order='year'">Ordenar por año</a>|
+	<a href="" ng-click="order='nombre'">Ordenar por nombre</a>
+	<a href="" ng-click="order=''">Sin Ordenar</a>
+	</div>
+	<div>
+	<input type="text" ng-model="d.name">
+    <button ng-click="addNewCurso(d.name)">Add Item</button><br>
+    <hr>
+
+	</div>
+    </div>
+    <div class="jumbotron">
+	<div class="container">
+	<div class="row">
+		<div class="col-md-3" ng-repeat="curso in cursos | filter:search | orderBy:order">
+			<div>
+				<a href="#/cursos/{{curso.id}}">
+				<img src="static/images/{{curso.imagen}}" width="80"/>
+				</a>
+				<h6>{{curso.nombre}}</h6>
+				<h9>{{curso.descripcion }}</h9>
+
+			</div>
+		</div>
+	</div>
+	</div>
+	</div>
+</div>

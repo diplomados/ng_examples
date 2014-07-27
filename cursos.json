@@ -1,0 +1,62 @@
+[
+{"id":"1",
+"nombre":"Curso profesional de Python",
+"descripcion":"En este curso aprenderas un lenguaje muy simple y poderoso, en sus dos versiones mas utilizadas la 2.7 y 3.*, desde 0 hasta llegar a temas avanzados.",
+"imagen":"python.png",
+"year":"2015"
+},
+{"id":"2",
+"nombre":"Curso profesional de Django",
+"descripcion":"¿Te gustaría desarrollar con Django un proyecto real? Te presentamos este completo curso donde aprenderás desde cero hasta un nivel avanzado.",
+"imagen":"django.png",
+"year":"2015"
+},
+{"id":"3",
+"nombre":"Curso profesional de Angular y REST",
+"descripcion":"Este curso pretende enseñarte como crear una aplicación web con AngularJS en la parte cliente y un servidor REST con Django.",
+"imagen":"angularjs.png",
+"year":"2015"
+},
+{"id":"4",
+"nombre":"Curso básico de Ruby on Rails",
+"descripcion":"En este curso básico de Ruby on Rails aprenderás conceptos teóricos y prácticos del framework Ruby on Rails 4 mediante el desarrollo de un blog que será alojado a un servicio público gratis para su despliegue.",
+"imagen":"RAILS.png",
+"year":"2015"
+},
+{"id":"5",
+"nombre":"Curso básico de Android",
+"descripcion":"En este curso básico de Android se creará una aplicación interactiva, en la cual se podrá estudiar los componentes y controles más usados en el desarrollo de aplicaciones móviles.",
+"imagen":"ANDROID.png",
+"year":"2015"
+},
+{"id":"6",
+"nombre":"Curso profesional de Bootstrap 3",
+"descripcion":"Utilizando este framework aprenderemos a diseñar aplicaciones web más rápidamente, veremos todas y cada una de las herramientas que nos ofrece Bootstrap y las aplicaremos.",
+"imagen":"bootstrap.png",
+"year":"2015"
+},
+{"id":"7",
+"nombre":"Curso básico de Laravel",
+"descripcion":"Curso de Laravel 4, Laravel es un framework de PHP5, además de tener una sintaxis amigable, es una gran elección para grandes proyectos en la web.",
+"imagen":"LARAVEL.png",
+"year":"2015"
+},
+{"id":"8",
+"nombre":"Curso básico de Less",
+"descripcion":"En el curso básico de Less aprenderás a trabajar las hojas de estilo con funcionalidades de un lenguaje de programación para el desarrollo Frontend. Después de hacer este curso no podrás escribir CSS sin él preprocesador.",
+"imagen":"LESS.png",
+"year":"2015"
+},
+{"id":"9",
+"nombre":"Curso básico de Backbone.js",
+"descripcion":"Este curso básico de Backbone.js nos ayudará a conocer los conceptos necesarios para comenzar a utilizar esta potente librería.",
+"imagen":"BACKBONE.png",
+"year":"10"
+},
+{"id":"11",
+"nombre":"Curso básico de Responsive Web Design",
+"descripcion":"En este curso de Responsive Web Design podrás aprender de la forma mas didáctica posible para que puedas hacer tus sitios web adaptables ante cualquier entorno del usuario.",
+"imagen":"RESPONSIVE.png",
+"year":"2015"
+}
+]
